@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+*.env
+*.venv
+
+# OS-specific
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Generated files
+# Keep the directories, but ignore their contents
+logs/*
+!logs/.gitkeep
+
+results/*
+!results/.gitkeep
+
+# Local data (if any)
+data/
