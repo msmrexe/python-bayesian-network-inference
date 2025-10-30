@@ -135,7 +135,7 @@ We calculate the unnormalized probability for $H_j=1$ and $H_j=0$ using this for
 ## Project Structure
 
 ```
-bayesian-network-inference/
+python-bayesian-network-inference/
 ├── .gitignore                  # Ignores standard Python/IDE files
 ├── LICENSE                     # MIT License
 ├── README.md                   # This file
